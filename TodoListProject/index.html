@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-do List</title>
+    <link rel="stylesheet" href="./styles/style.css"/>
+
+    <link rel="stylesheet" 
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" 
+          integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" 
+          crossorigin="anonymous" 
+          referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <header>
+        <h1>Barry's To-do List</h1>
+    </header>
+
+    <form>
+        <input type="text">
+        <input type="number" min="1" max="12" placeholder="M" required>
+        <input type="number" min="1" max="31" placeholder="D" required>
+        <button type="submit">Add to List</button>
+    </form>
+
+    <br>
+    <br>
+
+    <div class="sort">
+        <button>Sort By Time</button>
+    </div>
+
+    <section>
+    </section>
+
+    <script src="./app.js"></script>
+    
+</body>
+</html>

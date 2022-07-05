@@ -1,0 +1,164 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+i {
+    pointer-events: none;
+}
+
+body {
+    background: linear-gradient(90deg,#e66465, #4a9eff);
+}
+
+header {
+    height:20vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    h1 {
+        color:white;
+        font-size: 3rem;
+    }
+}
+
+form {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    input, 
+    button {
+        border: none;
+        padding: 0.25rem;
+        font-size: 1.75rem;
+        margin:0.1rem;
+        border-radius: 6px;
+        border: 1px solid #dbdbdb00;
+        text-align: center;
+    }
+
+    input[type="number"] {
+        width: 50 px;
+        text-align: center;
+    }
+
+    /* Chrome, Safari, Edge, Opera */
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    }
+
+    /* Firefox */
+    input[type=number] {
+    -moz-appearance: textfield;
+    }
+
+    button {
+        cursor:pointer;
+        background-color: #ffffff55;
+        color:white;
+        transition: all 0.25s;
+    }
+
+    button:hover {
+        background-color: #ffffffa0;
+        color:#ffffff9f;
+    }
+}
+
+div.sort {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    button {
+        cursor:pointer;
+        background-color: #ffffff55;
+        color:white;
+        transition: all 0.25s;
+        border:none;
+        border-radius: 6px;
+        padding:0.25rem;
+    }
+
+    button:hover {
+        background-color: #ffffffa0;
+        color:#ffffff9f;
+    }
+}
+section {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+    div.todo{
+        width: 40vw;
+        display: flex;
+        align-items: center;
+        margin:0.2rem 0rem;
+        transition: all 0.2s ease;
+        
+        
+        p {
+            background-color: white;
+            color:black;
+            padding: 0.25rem 0.5rem;
+        }
+
+        p.todo-text {
+            width: 50%;
+        }
+
+        p.todo-time {
+            width: 20%;
+            text-align: center;
+        }
+
+        button {
+            padding:0.25 0.5rem;
+            font-size: 1.58rem;
+            border:none;
+            cursor: pointer;
+            color: white;
+            margin:0.2rem 0.5rem;
+        }
+
+        button.complete {
+            background-color:rgba(74, 158, 255, 0);
+
+        }
+
+        button.trash {
+            background-color: #ffffff00;
+        }
+    }
+}
+
+.done {
+    opacity: 0.5;
+    text-decoration: line-through;
+    text-decoration-thickness: 0.2rem;
+}
+
+@keyframes scaleUp {
+    from {
+        transform: scale(0);
+    } 
+    to {
+        transform: scale(1);
+    }
+}
+
+@keyframes scaleDown {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(0);
+    }
+}
