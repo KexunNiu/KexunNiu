@@ -1,11 +1,13 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KexunNiu&show_icons=true&theme=radical" />
 </a>
+</br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KexunNiu&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KexunNiu&theme=radical" />
 </a>
 
-
+</br>
+</br>
 
 - 👋 Hi, I’m @KexunNiu
 - 👀 I’m  undergraduate at UAlberta right now
@@ -17,7 +19,7 @@ KexunNiu/KexunNiu is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
