@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KexunNiu
-- 👀 I’m  taking University of Alberta right now
-- 🌱 I’m currently a Computing Science undergraduate student
+- 👀 I’m  undergraduate at UAlberta right now
+- 🌱 Major in Computing Science
 - 📫 How to reach me: Email: kexun@ualberta.ca
 
 <!---
