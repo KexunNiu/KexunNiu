@@ -22,4 +22,14 @@ You can click the Preview link to take a look at your changes.
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 14 March 2023 - To: 15 March 2023
+
+Total Time: 1 hr 1 min
+
+Python   1 hr 1 min      >>>>>>>>>>>>>>>>>>>>>>>>>   99.95 %
+Text     0 secs          -------------------------   00.05 %
+```
+
 <!--END_SECTION:waka-->
