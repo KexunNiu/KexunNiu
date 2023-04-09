@@ -24,14 +24,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2023 - To: 06 April 2023
+From: 14 March 2023 - To: 07 April 2023
 
-Total Time: 27 hrs 8 mins
+Total Time: 31 hrs 11 mins
 
-Python       23 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>----   84.41 %
-Markdown     2 hrs 1 min     >>-----------------------   07.26 %
-JSON         56 mins         >------------------------   03.39 %
-Other        48 mins         >------------------------   02.89 %
+Python       27 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>----   85.49 %
+Markdown     2 hrs 6 mins    >>-----------------------   06.54 %
+Other        1 hr 1 min      >------------------------   03.17 %
 ```
 
 <!--END_SECTION:waka-->
