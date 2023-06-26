@@ -14,6 +14,15 @@
 - 🌱 Currently study in Master of Electrical and Computer Engineering at Western University
 - 📫 How to reach me: Email: marika.kniu@gmail.com
 
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][1]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][2]
+
+<!-- To Link your profile to the media buttons -->
+
+[1]: https://www.instagram.com/barryn719_
+[2]: https://www.linkedin.com/in/kexun-niu
+
+
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
@@ -37,3 +46,4 @@ HTML         4 mins          -------------------------   00.16 %
 ```
 
 <!--END_SECTION:waka-->
+
