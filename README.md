@@ -10,14 +10,10 @@
 </br>
 
 - 👋 Hi, I’m @KexunNiu
-- 👀 I’m  undergraduate at UAlberta right now
-- 🌱 Major in Computing Science
-- 📫 How to reach me: Email: kexun@ualberta.ca
+- 👀 Bachelor of Computing Science at Ualberta EARNED
+- 🌱 Currently study in Master of Electrical and Computer Engineering at Western University
+- 📫 How to reach me: Email: marika.kniu@gmail.com
 
-<!---
-KexunNiu/KexunNiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
