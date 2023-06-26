@@ -13,9 +13,8 @@
 - 👀 Bachelor of Computing Science at Ualberta EARNED
 - 🌱 Currently study in Master of Electrical and Computer Engineering at Western University
 - 📫 How to reach me: Email: marika.kniu@gmail.com
-
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][1]
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][2]
+  
+  [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram1.png (Instagram))][1] [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png (LinkedIn))][2]
 
 <!-- To Link your profile to the media buttons -->
 
