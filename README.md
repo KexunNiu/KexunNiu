@@ -2,10 +2,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KexunNiu&show_icons=true" />
 </a>
 </br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KexunNiu" />
-</a>
-
 </br>
 </br>
 
@@ -45,4 +41,8 @@ Text             2 hrs 3 mins    -------------------------   00.76 %
 ```
 
 <!--END_SECTION:waka-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KexunNiu" />
+</a>
 
