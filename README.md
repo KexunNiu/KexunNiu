@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @KexunNiu
 - 👀 Bachelor of Computing Science at Ualberta EARNED
-- 🌱 Currently study in Master of Electrical and Computer Engineering at Western University
+- 🌱 Master of Electrical and Computer Engineering at Western University EARNED
 - 📫 How to reach me: Email: marika.kniu@gmail.com
   
   [![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram1.png (Instagram))][1] [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn1.png (LinkedIn))][2]
